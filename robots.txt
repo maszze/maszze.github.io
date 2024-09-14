@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://maszze.github.io/sFB/sitemap.sFB.gz
